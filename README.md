@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @phienle-clearwave
+- 👀 I’m interested in writing blog, listening to acoustic music and earning money.
+- 🌱 I’m currently learning Azure, .NET, way to build personal branding
+- 📫 How to reach me: minhphien@gmail.com
